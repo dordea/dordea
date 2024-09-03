@@ -20,6 +20,8 @@ Salut, sunt **Pavel Dordea**, un dezvoltator software pasionat, specializat în 
    - **EN:** A Python-based application that generate University Documents.
    - **RO:** O aplicație bazată pe Python care genereaza documente pentru Universitate.
 
+### etc.
+
 ---
 
 ## 🛠️ Skills / Abilități
