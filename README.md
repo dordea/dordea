@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding / hack's / webdev
 - 🌱 I’m currently learning python
 - 📫 How to reach me pavlik@duck.com
-- 🌐 www.dordea.codes
+- 🌐 My web Portofolio www.dordea.codes
 
 <!---
 dordea/dordea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
