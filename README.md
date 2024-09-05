@@ -20,6 +20,10 @@ Salut, sunt **Pavel Dordea**, un dezvoltator software pasionat, specializat în 
    - **EN:** A Python-based application that generate University Documents.
    - **RO:** O aplicație bazată pe Python care genereaza documente pentru Universitate.
 
+### 3. **[BFU Tool]([https://github.com/dordea/doctools](https://github.com/dordea/BFU_Tool)**
+   - **EN:** A Python-based application that generate fake person photo & details, remove background from photo and shorting long url's.
+   - **RO:** O aplicație bazată pe Python care genereaza date si poze a unei persoane inexistente, sterge fonul fotografiilor si scurteaza linkurile lungi .
+
 ### etc.
 
 ---
